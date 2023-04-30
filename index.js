@@ -38,7 +38,7 @@ const alt_fun = () =>{
 }
 
 
-// Your resume selection -->
+// Your converter/generator selection -->
 // one --->
 const image_one_click_event = () => {
   let img = document.getElementById('r_img_btn_01')
